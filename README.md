@@ -1,3 +1,6 @@
+FORK of Bootswatch purely to build a more locally dependent version of the themes for AA-GDPR FORK
+
+
 <p align="center">
   <img width="200" height="200" src="https://bootswatch.com/_assets/img/logo.png">
 </p>
